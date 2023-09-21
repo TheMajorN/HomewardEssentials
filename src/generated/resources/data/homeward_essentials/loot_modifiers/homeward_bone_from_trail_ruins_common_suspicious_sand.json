@@ -1,0 +1,10 @@
+{
+  "type": "homeward_essentials:add_suspicious_sand_item",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:archaeology/trail_ruins_common"
+    }
+  ],
+  "item": "homeward_essentials:homeward_bone"
+}

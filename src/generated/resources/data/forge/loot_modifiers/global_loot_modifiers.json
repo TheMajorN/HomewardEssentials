@@ -1,0 +1,26 @@
+{
+  "entries": [
+    "homeward_essentials:sacrificial_twig_from_pillager_outpost",
+    "homeward_essentials:sacrificial_twig_from_simple_dungeon",
+    "homeward_essentials:repair_powder_from_mineshaft",
+    "homeward_essentials:warming_stone_from_underwater_ruin_small",
+    "homeward_essentials:repair_powder_from_bastion_treasure",
+    "homeward_essentials:sacrificial_twig_from_jungle_temple",
+    "homeward_essentials:gold_pickled_fowl_foot_from_chicken",
+    "homeward_essentials:sacrificial_twig_from_jungle_temple_dispenser",
+    "homeward_essentials:sacrificial_twig_from_buried_treasure",
+    "homeward_essentials:sacrificial_twig_from_woodland_mansion",
+    "homeward_essentials:warming_stone_from_underwater_ruin_big",
+    "homeward_essentials:repair_powder_from_mansion",
+    "homeward_essentials:repair_powder_from_nether_bridge",
+    "homeward_essentials:warming_stone_from_shipwreck_treasure",
+    "homeward_essentials:homeward_bone_from_desert_well_suspicious_sand",
+    "homeward_essentials:warming_stone_from_shipwreck_supply",
+    "homeward_essentials:homeward_bone_from_trail_ruins_rare_suspicious_sand",
+    "homeward_essentials:warming_stone_from_stronghold_corridor",
+    "homeward_essentials:warming_stone_from_igloo_chest",
+    "homeward_essentials:homeward_bone_from_trail_ruins_common_suspicious_sand",
+    "homeward_essentials:warming_stone_from_stronghold_crossing"
+  ],
+  "replace": false
+}

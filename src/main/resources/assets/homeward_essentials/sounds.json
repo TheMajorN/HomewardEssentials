@@ -1,0 +1,50 @@
+{
+  "homeward_bone_1": {
+    "subtitle": "sounds.homeward_essentials.homeward_bone_1",
+    "sounds": [
+      "homeward_essentials:homeward_bone_1"
+    ]
+  },
+  "homeward_bone_2": {
+    "subtitle": "sounds.homeward_essentials.homeward_bone_2",
+    "sounds": [
+      "homeward_essentials:homeward_bone_2"
+    ]
+  },
+  "homeward_bone_3": {
+    "subtitle": "sounds.homeward_essentials.homeward_bone_3",
+    "sounds": [
+      "homeward_essentials:homeward_bone_3"
+    ]
+  },
+  "homeward_bone_loop": {
+    "subtitle": "sounds.homeward_essentials.homeward_bone_loop",
+    "sounds": [
+      "homeward_essentials:homeward_bone_loop"
+    ]
+  },
+  "homeward_bone_teleport": {
+    "subtitle": "sounds.homeward_essentials.homeward_bone_teleport",
+    "sounds": [
+      "homeward_essentials:homeward_bone_teleport"
+    ]
+  },
+  "sacrificial_twig_respawn": {
+    "subtitle": "sounds.homeward_essentials.sacrificial_twig_respawn",
+    "sounds": [
+      "homeward_essentials:sacrificial_twig_respawn"
+    ]
+  },
+  "repair_powder_shake": {
+    "subtitle": "sounds.homeward_essentials.repair_powder_shake",
+    "sounds": [
+      "homeward_essentials:repair_powder_shake"
+    ]
+  },
+  "warming_stone": {
+    "subtitle": "sounds.homeward_essentials.warming_stone",
+    "sounds": [
+      "homeward_essentials:warming_stone"
+    ]
+  }
+}

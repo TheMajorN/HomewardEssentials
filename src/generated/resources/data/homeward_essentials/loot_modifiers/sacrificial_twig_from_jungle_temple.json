@@ -1,0 +1,10 @@
+{
+  "type": "homeward_essentials:add_item",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:chests/jungle_temple"
+    }
+  ],
+  "item": "homeward_essentials:sacrificial_twig"
+}

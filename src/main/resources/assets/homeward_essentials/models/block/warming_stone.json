@@ -1,0 +1,21 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [4, 4],
+	"textures": {
+		"2": "homeward_essentials:block/warming_stone"
+	},
+	"elements": [
+		{
+			"from": [7.25, 0, 7],
+			"to": [8.75, 0.5, 9],
+			"faces": {
+				"north": {"uv": [8.24, 8.24, 8.56, 8.4], "texture": "#2"},
+				"east": {"uv": [9.76, 7.76, 10.16, 7.92], "texture": "#2"},
+				"south": {"uv": [8.24, 5.36, 8.56, 5.52], "texture": "#2"},
+				"west": {"uv": [7.52, 6.8, 8, 6.96], "texture": "#2"},
+				"up": {"uv": [9.76, 5.52, 9.44, 5.12], "texture": "#2"},
+				"down": {"uv": [6.48, 8.56, 5.92, 8.96], "texture": "#2"}
+			}
+		}
+	]
+}

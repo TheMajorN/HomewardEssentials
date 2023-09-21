@@ -1,0 +1,11 @@
+{
+  "item.homeward_essentials.homeward_bone": "Homeward Bone",
+  "item.homeward_essentials.sacrificial_twig": "Sacrificial Twig",
+  "item.homeward_essentials.repair_powder": "Repair Powder",
+  "item.homeward_essentials.warming_stone": "Warming Stone",
+  "item.homeward_essentials.gold_pickled_fowl_foot": "Gold-Pickled Fowl Foot",
+
+  "block.homeward_essentials.warming_stone": "Warming Stone",
+
+  "effect.homeward_essentials.gold_pickled_fowl_foot": "Experience Boost"
+}

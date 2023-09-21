@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "homeward_essentials:block/warming_stone"
+    },
+    "facing=south": {
+      "model": "homeward_essentials:block/warming_stone",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "homeward_essentials:block/warming_stone",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "homeward_essentials:block/warming_stone",
+      "y": 90
+    }
+  }
+}

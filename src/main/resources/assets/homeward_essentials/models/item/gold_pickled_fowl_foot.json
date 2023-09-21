@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "homeward_essentials:item/gold_pickled_fowl_foot"
+  }
+}
