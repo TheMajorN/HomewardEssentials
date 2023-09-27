@@ -40,13 +40,16 @@ public class RepairPowderItem extends Item {
     }
 
     public void onUseTick(Level pLevel, LivingEntity pLivingEntity, ItemStack pStack, int pCount) {
+        float minPitch = 0.8F;
+        float maxPitch = 1.5F;
+        float randomPitch = minPitch + (float) Math.random() * (maxPitch - minPitch);
         double f = (pStack.getUseDuration() - pCount);
         ItemStack repairPowder = pLivingEntity.getItemInHand(InteractionHand.OFF_HAND);
         ItemStack itemToRepair = pLivingEntity.getItemInHand(InteractionHand.MAIN_HAND);
         int repairAmountPerTick = 16;
 
         if (f % 10 == 0) {
-            pLevel.playSound(null, pLivingEntity.getX(), pLivingEntity.getY(), pLivingEntity.getZ(), SoundRegistry.REPAIR_POWDER_SHAKE.get(), SoundSource.PLAYERS, 1.0F, 1.4F);
+            pLevel.playSound(null, pLivingEntity.getX(), pLivingEntity.getY(), pLivingEntity.getZ(), SoundRegistry.REPAIR_POWDER_SHAKE.get(), SoundSource.PLAYERS, 1.0F, randomPitch);
             if (!pLivingEntity.isInvulnerable() && itemToRepair.isDamaged()) {
                 repairPowder.setDamageValue(repairPowder.getDamageValue() + repairAmountPerTick);
             }
